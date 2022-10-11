@@ -41,7 +41,7 @@ while True:
     dimmingValue += 80
     if(255 < dimmingValue) :
         dimmingValue = 0 
-    time.sleep(2)
+    time.sleep(1)
 
     pass
 
